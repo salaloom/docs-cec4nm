@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r5f95g.utmtools.ru/sitemap.xml
